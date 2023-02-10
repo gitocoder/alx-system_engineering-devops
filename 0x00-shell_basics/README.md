@@ -1,1 +1,1 @@
-betty in the first directory
+delate the file betty
