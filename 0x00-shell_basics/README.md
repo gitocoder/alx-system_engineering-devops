@@ -1,1 +1,1 @@
-betty in my first directory
+betty in the first directory
