@@ -1,1 +1,1 @@
-dispay the content in the a long format
+diapAlY current directory content, include hidden file 
