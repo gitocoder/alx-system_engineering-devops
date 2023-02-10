@@ -1,1 +1,1 @@
-diapAlY current directory content, include hidden file 
+display current directory content
