@@ -7,3 +7,5 @@ Write a script that prints the result of the addition of 128 with the value stor
 Write a script that prints the result of POWER divided by DIVIDE, followed by a new line.
 Create a script that prints all possible combinations of two letters, except oo.
 Create a script that prints all possible combinations of two letters, except oo.
+Write a script that converts a number from base 10 to base 16. 
+Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
